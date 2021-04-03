@@ -1,0 +1,3 @@
+#Open-Multiple-Files-with-Python
+We'll need to loop to iterate through all of the files in this folder to open and read each, then extract the bits of text that we need as separate pieces of data
+We will use glob library which you can find more information about it here : https://docs.python.org/3/library/glob.html 
